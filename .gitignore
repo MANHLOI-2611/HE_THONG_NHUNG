@@ -1,4 +1,14 @@
 *.o
 *.elf
+*.hex
 *.bin
+*.map
 *.swp
+
+Debug/
+Release/
+Objects/
+Listings/
+*.dep
+
+.vscode/
